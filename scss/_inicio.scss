@@ -1,0 +1,52 @@
+.teamKakapoBanner {
+    display: block;
+    padding: 0 30px;
+    margin-top: 150px;
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Staatliches', cursive;
+  
+    .kakapo {
+      font-size: 130px;
+      margin-bottom: 0px;
+    }
+  
+    .team {
+      font-size: 100px;
+      margin-bottom: 0px;
+    }
+  }
+  
+  .paladini {
+    width: 170px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .teamKakapoSponsors {
+    display: block;
+    text-align: center;
+    color: white;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Staatliches', cursive;
+    margin-top: 100px;
+    font-size: 30px;
+  }
+  
+  .barPostal {
+    width: 200px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .sponsor {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .ferrari, .monster {
+    width: 200px;
+    display: flex;
+    justify-content: center;
+  }

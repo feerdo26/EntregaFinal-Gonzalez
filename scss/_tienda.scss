@@ -1,0 +1,14 @@
+
+.contenedor-tienda {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, auto));
+    align-items: center;
+    gap: 2rem;
+    text-align: center;
+  
+    img {
+      width: 350px;
+      height: 250px;
+    }
+  }
+  
